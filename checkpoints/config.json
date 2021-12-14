@@ -1,0 +1,1 @@
+{"run_name": "linear", "init_learning_rate": 0.1, "lr_step_interval": 5000, "n_epochs": 500, "epoch_log_interval": 1, "batch_log_interval": Infinity, "val_interval": 1, "save_interval": 100, "batch_size": 32, "fp_type": "trnsfm", "dim_seq": [256, 64], "dropout_pair": [0, 0.5]}
